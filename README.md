@@ -31,11 +31,16 @@ Weather dashboards that runs in the browser and features dynamically updated HTM
 N/A
 
 ### Usage
+Disclaimer: The actual code doesn't work, needs to be debugged.
+
 Follow these steps to see the console in action:
 
 + Open the deployed application in your preferred browser.
 + Search for a city of your choice.
 + Check the weather conditions, current and future.
+
+Image of how the application was supposed to look like:
+![10-server-side-apis-challenge-demo](https://github.com/volfovaklara/weather-dashboard/assets/139559885/908da29d-696e-4210-b7d2-6097f83e2d72)
 
 ### Credits
 N/A
