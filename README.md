@@ -3,7 +3,7 @@
 ### Description
 Weather dashboards that runs in the browser and features dynamically updated HTML and CSS.
 
-[Deployed Application]
+[Deployed Application](https://volfovaklara.github.io/weather-dashboard/)
 
 ### Table of Contents
 * [User Story](#user-story) 
